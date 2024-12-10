@@ -1,2 +1,2 @@
 # chatbot_using_NLP
-A chatbot designed to assist with smart navigation and real-time safety alerts for women. Built using Natural Language Processing (NLP), it processes user input, predicts intent, and provides context-aware responses, leveraging a trained deep learning model to ensure efficient and reliable interactions.
+This repository contains a chatbot built using Natural Language Processing (NLP) techniques. It processes user input, recognizes intent with an LSTM-based model, and generates meaningful responses. Developed with Python, NLTK, and spaCy, this lightweight chatbot is designed for seamless daily conversations.
